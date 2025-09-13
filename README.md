@@ -4,6 +4,7 @@ You will need the areamap file from original melkart, as I can't seem to upload 
 This has the Sakhal Warhead bunker at the end of the airstrip at Airfield, with the genny station on the other end of the strip. You will need to enable cfggameplay.json in your DZconfig file for this to spawn in.
 Other changes include:
 -Updated Types file
+-Static Locked Shipping Containers spawns on coastline
 -Static military boat spawns with loot off the coast
 -Static Fishing boat spawns with loot on inland lakes
 -Static Ambulance crashs spawn randomly on roadways throughout the map
