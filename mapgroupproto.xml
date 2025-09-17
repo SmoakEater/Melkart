@@ -489,11 +489,10 @@
 		</group>
 		<group name="StaticObj_PatrolBoat_Military_DE" lootmax="15">
 				<usage name="Military" />
-				<usage name="containerkeys" />
+				<usage name="MilBoat"/>
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
-						<catagory name="keys" />
 						<category name="clothes" />
 						<category name="food" />
 						<category name="weapons" />
@@ -19730,3 +19729,4 @@
 				</container>
 		</group>
 </prototype>
+
