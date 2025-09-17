@@ -3,7 +3,6 @@
     <categories>
         <category name="tools"/>
         <category name="containers"/>
-		<catagory name="keys"/>
 		<category name="clothes"/>
         <category name="lootdispatch"/>
         <category name="food"/>
@@ -17,10 +16,8 @@
         <tag name="ground"/>
     </tags>
     <usageflags>
-        <usage name="Military"/>
-		<usage name="Military" /> 
-		<usage name="containerkeys" />
-        <usage name="Police"/>
+        <usage name="Military" /> 
+		<usage name="Police"/>
         <usage name="Medic"/>
         <usage name="Firefighter"/>
         <usage name="Industrial"/>
@@ -38,6 +35,7 @@
 		<usage name="Historical"/>
         <usage name="Special"/>
         <usage name="Underground"/>
+		<usage name="MilBoat"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
