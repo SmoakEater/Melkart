@@ -44,7 +44,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9997542500495911,
+            "scale": 0.9997541308403015,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -60,7 +60,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.999862015247345,
+            "scale": 0.9998618960380554,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -76,7 +76,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999914169311523,
+            "scale": 0.999991238117218,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -92,7 +92,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999914169311523,
+            "scale": 0.999991238117218,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -108,7 +108,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 1.0999999046325684,
+            "scale": 1.0999997854232789,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -140,7 +140,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999911189079285,
+            "scale": 0.9999909400939941,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -156,7 +156,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999901652336121,
+            "scale": 0.9999899864196777,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -172,7 +172,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999947547912598,
+            "scale": 0.9999945759773254,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -188,7 +188,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -204,7 +204,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999995827674866,
+            "scale": 0.9999995231628418,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -220,7 +220,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999992847442627,
+            "scale": 0.9999992251396179,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -268,7 +268,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999979138374329,
+            "scale": 0.9999977946281433,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -284,7 +284,7 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999979138374329,
+            "scale": 0.9999977946281433,
             "enableCEPersistency": 0,
             "customString": ""
         },
@@ -300,23 +300,23 @@
                 0.0,
                 -0.0
             ],
-            "scale": 0.9999979138374329,
+            "scale": 0.9999977946281433,
             "enableCEPersistency": 0,
             "customString": ""
         },
         {
             "name": "Land_WarheadStorage_Bunker_Facility",
             "pos": [
-                9890.7490234375,
+                9890.6953125,
                 30.233469009399415,
-                8142.470703125
+                8142.5751953125
             ],
             "ypr": [
-                -94.8553466796875,
-                0.0,
-                -0.0
+                -94.24169158935547,
+                -0.1381266862154007,
+                0.010447891429066658
             ],
-            "scale": 0.9999968409538269,
+            "scale": 0.9999964833259583,
             "enableCEPersistency": 0,
             "customString": ""
         }
